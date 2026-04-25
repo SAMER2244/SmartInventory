@@ -50,7 +50,7 @@ SmartInventory supports **three languages** out of the box:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/smartinventory.git
+git clone https://github.com/SAMER2244/Smartinventory
 cd smartinventory
 
 # Install dependencies
