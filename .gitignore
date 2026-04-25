@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.db
+inventory.db
+Shortage_Report.xlsx
